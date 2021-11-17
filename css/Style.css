@@ -52,6 +52,7 @@ body {
   text-align: center;
 }
 .texto-informacion {
+  color: black;
   font-style: italic;
   font-weight: bold;
   font-size: 30px;
